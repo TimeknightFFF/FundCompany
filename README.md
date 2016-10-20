@@ -1,4 +1,4 @@
 # FundCompany
 spide fund info
 
-image/four.gif
+![image](http://github.com/TimeKnightFFF/image/start.gif)
